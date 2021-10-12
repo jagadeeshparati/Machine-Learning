@@ -1,9 +1,0 @@
-mailbox
-pandas
-spacy
-re
-en_core_web_sm
-datetime
-IPython
-matplotlib
-seaborn
