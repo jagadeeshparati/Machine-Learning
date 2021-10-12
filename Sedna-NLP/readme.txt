@@ -1,6 +1,6 @@
 A final file for each party is created by combining the donation and Nodonation files of respective parties
 
-Install python -m spacy download en_core_web_sm in the prompt window
+Install python -m spacy download en_core_web_sm 
 
 A combined dataframe is created with columns email body, date the email sent and the name of the sending party extracted from the metadata of each email in the mbox file
 
